@@ -1,0 +1,3 @@
+<FilesMatch "\.txt$">
+Deny from all
+</FilesMatch>
